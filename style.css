@@ -3,4 +3,9 @@ h1{
     font-weight: 500;
     border: 2px solid black;
     padding: 5px;
-}]
+}
+.kingfisher{
+    border: 2px solid red;
+    width: 100%;
+    height: fit-content;
+}
